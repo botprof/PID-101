@@ -1,8 +1,8 @@
 # PID 101 for Robotics
 
-The proportional-integral-derivative (PID) control structure is widely used, but often not well understood.  Many also tune their controllers by trial-and-error, which is also not idea.  This short tutorial series of notebooks—with examples written in Python—is intended to provide an brief and systematic introduction to PID control.  Practitioners in robotics are the intended audience, although the concepts are applicable more broadly.
+The proportional-integral-derivative (PID) control structure is widely used, but often not well understood.  Many also tune their controllers by trial-and-error, which is also not ideal.  This short tutorial series of notebooks—with examples written in Python—is intended to provide an brief and systematic introduction to PID control.  Practitioners in robotics are the intended audience, although the concepts are applicable more broadly.
 
-## Part I
+## Part I: Basics
 
 The first notebook (Part I) provides a hands-on introduction to the feedback control of simple single-input, single-output (SISO) systems.  What is perhaps unique about this notebook is that we introduce PID control solely in the time domain (i.e., without reliance on Laplace domain techniques), which is arguably more intuitive.
 
@@ -10,7 +10,7 @@ The first notebook (Part I) provides a hands-on introduction to the feedback con
 
 * [PID-101-Part1.ipynb](PID-101-Part1.ipynb) (Jupyter notebook)
 
-## Part II
+## Part II: Tuning
 
 The second notebook (to come) will introduce a few practical ways for choosing PID gains (i.e., _tuning_) that work especially well for robotics applications.
 
