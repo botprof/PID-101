@@ -6,8 +6,6 @@ The proportional-integral-derivative (PID) control structure is widely used but 
 
 The first notebook (Part I) provides a hands-on introduction to the feedback control of simple single-input, single-output (SISO) systems.  What is perhaps unique about this notebook is that we introduce PID control solely in the time domain (i.e., without reliance on Laplace domain techniques), which is arguably more intuitive.
 
-Readers already experienced with PID control can skip this notebook.
-
 ### Main File(s)
 
 * [PID-101-Part1.ipynb](PID-101-Part1.ipynb) (Jupyter notebook)
