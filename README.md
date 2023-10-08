@@ -1,6 +1,6 @@
 # PID 101 for Robotics
 
-The proportional-integral-derivative (PID) control structure is widely used but sometimes blindly applied and poorly understood.  These two notebooks—with sample code and examples written in Python—provide a brief and _systematic_ introduction to PID control.  Practitioners in robotics are the intended audience, although the concepts are applicable more broadly.
+The proportional-integral-derivative (PID) control structure is widely used but sometimes blindly applied and poorly understood.  These two notebooks—with sample code and examples written in Python—provide a concise and _systematic_ introduction to PID control.  Students and practitioners in robotics are the intended audience, although the concepts are applicable more broadly.
 
 ## Part I: Basics
 
