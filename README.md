@@ -32,6 +32,14 @@ A vehicle cruise control example and a DC motor speed control example are employ
 
 * [PID-101-Part2.ipynb](PID-101-Part2.ipynb) (Jupyter notebook)
 
+## References
+
+1. G. F. Franklin, J. D. Powell, and A. Emami-Naeini, _Feedback Control of Dynamic Systems_. Pearson Prentice Hall, 5th ed., 2006.
+
+2. J. Doyle, B. Francis, and A. Tannenbaum, _Feedback Control Theory_. Macmillan Publishing Co., 1990.
+
+3. R. Mukherji, _MDR Controls Course: Time and Frequency Domain Methods for Continuous Systems_, MDA Space Missions, Brampton, ON Canada, November 2003.
+
 ## Contact the Author
 
 [Joshua A. Marshall](https://offroad.engineering.queensu.ca/people/joshua-marshall/), PhD, PEng  
