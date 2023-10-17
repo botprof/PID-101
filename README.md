@@ -16,7 +16,7 @@ This notebook (Part I) employs a simple 1D mobile robot example to illustrate th
 
 ![image](oneDvehicle-slope.png)
 
-### Main File(s)
+### Main File (Part I)
 
 * [PID-101-Part1.ipynb](PID-101-Part1.ipynb) (Jupyter notebook)
 
@@ -28,7 +28,7 @@ A vehicle cruise control example and a DC motor speed control example are employ
 
 ![image](oneDvehicle.png)
 
-### Main File(s)
+### Main File (Part II)
 
 * [PID-101-Part2.ipynb](PID-101-Part2.ipynb) (Jupyter notebook)
 
